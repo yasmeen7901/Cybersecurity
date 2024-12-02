@@ -1,0 +1,58 @@
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+Registrant Country: US
+Registrar	MarkMonitor, Inc. MarkMonitor Inc.
+IANA ID: 292
+URL: http://www.markmonitor.com
+Whois Server: whois.markmonitor.com
+Dates	11,716 days old
+Created on 1992-11-04
+Expires on 2026-11-03
+Updated on 2024-10-02
+IP Address	184.31.196.66 
+IP Location	United States - Washington - Seattle - Akamai Technologies Inc.
+ASN	United States AS16625 AKAMAI-AS, US (registered May 30, 2000)
+
+netcraft:
+Site rank	2297
+Date first seen	May 2016
+Nameserver	edns69.ultradns.com
+Hosting company	Akamai Technologies
+Netblock Owner	Akamai Technologies
+Hosting country	 EU
+IPv4 address	92.123.52.56
+DNS admin	noc@teslamotors.com
+Top Level Domain	Commercial entities (.com)
+Reverse DNS	a92-123-52-56.deploy.static.akamaitechnologies.com
+
+shodan.io
+
+dumpster
+Host	IP	ASN	ASN Name	Open Services (from DB)	RevIP	
+ams13-gpgw1.tesla.com	199.120.50.30
+ASN:394161
+199.120.50.0/24	TESLA
+The Netherlands		1	⋮
+comparison.tesla.com	64.125.183.133
+ASN:6461
+64.125.0.0/16	ZAYO-6461
+United States		1	⋮
+dal11-gpgw1.tesla.com	199.120.56.30
+ASN:394161
+199.120.56.0/24	TESLA
+United States		1	⋮
+mta.email.tesla.com	13.111.14.190
+mta.email.tesla.com	ASN:14340
+13.111.0.0/16	SALESFORCE
+United States		2	⋮
+mta2.email.tesla.com	13.111.4.231
+ASN:14340
+13.111.0.0/16	SALESFORCE
+United States		2	⋮
+
+
+osintframework.com
+
+virustotal.com
+
+
+
